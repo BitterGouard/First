@@ -335,3 +335,4 @@ function foo() {
     bar()
     console.log(a)
 }
+var aa = 
